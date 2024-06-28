@@ -2,3 +2,13 @@
 
 >	git remote -v
 
+>git push github master
+
+>	cat > kotlin.txt
+
+git add .
+>	git commit -m "Añadido datos."
+
+>	git push origin master.
+
+
