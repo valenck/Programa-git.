@@ -1,1 +1,4 @@
+>	git remote add github url
+
+>	git remote -v
 
